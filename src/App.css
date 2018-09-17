@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #222;
+  height: 320px;
+  padding: 20px;
+  color: white;
+}
+.App-main{
+  min-height: 500px;
+  width: 50%;
+  margin: 0 auto
+}
+.Shoppinglist{
+  margin-top: 1%;
+ font-size: 28px;
+ border-top: solid 2px salmon;
+ border-bottom: solid 2px salmon;
+ border-radius: 20%;
+ list-style-type: none;
+}
+.Shoppinglist li strong{
+  position: relative;
+  float: left;
+  margin-left: 4%;
+  color: white;
+  font-style: italic;
+}
+.Shoppinglist li em{
+  position: relative;
+  float: right;
+  margin-right: 4%;
+  color: white;
+
+}
+.App-forma{
+  font-size: 20px;
+}
+.App-forma input{
+  font-size: 18px;
+}
+
